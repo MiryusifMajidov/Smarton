@@ -144,17 +144,15 @@ $result = $mysqli->query($sql);
                         })
                             .then(res => res.json())
                             .then(response => {
-                                if (response.success) {
-                                    Swal.fire({
-                                        icon: 'success',
-                                        title: 'Uğurlu!',
-                                        text: 'Bütün məhsullar uğurla yükləndi.',
-                                    }).then(() => {
+                                Swal.fire({
+                                    icon: response.success ? 'success' : 'error',
+                                    title: response.success ? 'Uğurlu!' : 'Xəta!',
+                                    text: response.message,
+                                }).then(() => {
+                                    if (response.success) {
                                         window.location.href = 'product.php';
-                                    });
-                                } else {
-                                    Swal.fire('Xəta!', response.message || 'Yükləmə zamanı xəta baş verdi', 'error');
-                                }
+                                    }
+                                });
                             })
                             .catch(() => {
                                 Swal.fire('Xəta!', 'Serverə qoşulmaq olmadı', 'error');
@@ -167,6 +165,7 @@ $result = $mysqli->query($sql);
         });
     }
 </script>
+
 <script>
     document.querySelectorAll('.delete-product-btn').forEach(function(btn) {
         btn.addEventListener('click', function() {

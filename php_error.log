@@ -17,3 +17,152 @@
 [02-May-2025 21:54:06 UTC] Incorrect date value: '02.05.2025' for column 'date' at row 1
 [02-May-2025 21:57:02 UTC] Incorrect date value: '02.05.2025' for column 'date' at row 1
 [02-May-2025 21:58:40 UTC] Incorrect date value: '02.05.2025' for column 'date' at row 1
+[05-May-2025 15:58:36 UTC] Tarix formatı səhvdir: 5/5/2025
+[05-May-2025 15:58:36 UTC] Tarix formatı səhvdir: 5/5/2025
+[05-May-2025 16:53:30 UTC] Sətir məlumatları: name=LG GR-X29FFQAB.AEPRALY Soyuducu | price=5999 | category=Soyuducu | dateInput=05.05.2025 | imageUrl=https://smarton.az/storage/products/53412/tm-mt-bmt-1108-rf-0079-1-fdc51a31-1.jpg
+[05-May-2025 16:53:31 UTC] Sətir məlumatları: name=Indesit ITS 4200 G Soyuducu | price=859 | category=Soyuducu | dateInput=05.05.2025 | imageUrl=https://smarton.az/storage/products/52987/899363-bdfd94f159574975fea3c8cc4efffcc0.jpg
+[05-May-2025 16:54:32 UTC] Sətir məlumatları: name=Thomson 65UG4S14 Smart Televizor | price=1159 | category=TV | dateInput=02.05.2025 | imageUrl=https://smarton.az/storage/products/53408/65ug4s14-01-1.jpg
+[05-May-2025 16:54:32 UTC] Sətir məlumatları: name=LG OLED83B4RLA.AMCN Smart Televizor | price=11599 | category=TV | dateInput=02.05.2025 | imageUrl=https://smarton.az/storage/products/53061/lg-tv-oled83b4-front-11-view.jpg
+[05-May-2025 16:54:33 UTC] Sətir məlumatları: name=Midea MF01712BS40/W Paltaryuyan maşın | price=599 | category=Paltaryuyan | dateInput=02.05.2025 | imageUrl=https://smarton.az/storage/products/53325/midea-mf01712bs40w-3.jpg
+[05-May-2025 16:54:33 UTC] Sətir məlumatları: name=Samsung RT53DB7B60ETWR Soyuducu | price=2099 | category=Soyuducu | dateInput=02.05.2025 | imageUrl=https://smarton.az/storage/products/53375/soyuducu-samsung-rt53db7b60etwt-1-1-429x419far-efe.jpg
+[05-May-2025 16:54:34 UTC] Sətir məlumatları: name= | price=0 | category= | dateInput= | imageUrl=
+[05-May-2025 16:54:34 UTC] Sətir məlumatları: name=Gree GWH24ATDXE-K6DNA1A/I Charmo İnverter Kondisioner | price=1899 | category=Kondisioner | dateInput=02.05.2025 | imageUrl=https://smarton.az/storage/products/53385/charmo-1-500x500.jpg
+[05-May-2025 16:56:27 UTC] Sətir məlumatları: name=LG GR-X29FFQAB.AEPRALY Soyuducu | price=5999 | category=Soyuducu | dateInput=05.05.2025 | imageUrl=https://smarton.az/storage/products/53412/tm-mt-bmt-1108-rf-0079-1-fdc51a31-1.jpg
+[05-May-2025 16:56:27 UTC] Sətir məlumatları: name=Indesit ITS 4200 G Soyuducu | price=859 | category=Soyuducu | dateInput=05.05.2025 | imageUrl=https://smarton.az/storage/products/52987/899363-bdfd94f159574975fea3c8cc4efffcc0.jpg
+[05-May-2025 16:59:15 UTC] Sətir məlumatları: name=LG GR-X29FFQAB.AEPRALY Soyuducu | price=5999 | category=Soyuducu | dateInput=05.05.2025 | imageUrl=https://smarton.az/storage/products/53412/tm-mt-bmt-1108-rf-0079-1-fdc51a31-1.jpg
+[05-May-2025 16:59:15 UTC] Sətir məlumatları: name=Indesit ITS 4200 G Soyuducu | price=859 | category=Soyuducu | dateInput=05.05.2025 | imageUrl=https://smarton.az/storage/products/52987/899363-bdfd94f159574975fea3c8cc4efffcc0.jpg
+[05-May-2025 17:02:46 UTC] Sətir məlumatları: name=LG GR-X29FFQAB.AEPRALY Soyuducu | price=5999 | category=Soyuducu | dateInput=05.05.2025 | imageUrl=https://smarton.az/storage/products/53412/tm-mt-bmt-1108-rf-0079-1-fdc51a31-1.jpg
+[05-May-2025 17:02:47 UTC] Şəkil yüklənmədi: 'https://smarton.az/storage/products/53412/tm-mt-bmt-1108-rf-0079-1-fdc51a31-1.jpg' (Sətir: 1)
+[05-May-2025 17:02:47 UTC] Sətir məlumatları: name=Indesit ITS 4200 G Soyuducu | price=859 | category=Soyuducu | dateInput=05.05.2025 | imageUrl=https://smarton.az/storage/products/52987/899363-bdfd94f159574975fea3c8cc4efffcc0.jpg
+[05-May-2025 17:02:47 UTC] Şəkil yüklənmədi: 'https://smarton.az/storage/products/52987/899363-bdfd94f159574975fea3c8cc4efffcc0.jpg' (Sətir: 2)
+[05-May-2025 17:03:12 UTC] Sətir məlumatları: name=LG GR-X29FFQAB.AEPRALY Soyuducu | price=5999 | category=Soyuducu | dateInput=05.05.2025 | imageUrl=https://smarton.az/storage/products/53412/tm-mt-bmt-1108-rf-0079-1-fdc51a31-1.jpg
+[05-May-2025 17:03:12 UTC] Şəkil yüklənmədi: 'https://smarton.az/storage/products/53412/tm-mt-bmt-1108-rf-0079-1-fdc51a31-1.jpg' (Sətir: 1)
+[05-May-2025 17:03:12 UTC] Sətir məlumatları: name=Indesit ITS 4200 G Soyuducu | price=859 | category=Soyuducu | dateInput=05.05.2025 | imageUrl=https://smarton.az/storage/products/52987/899363-bdfd94f159574975fea3c8cc4efffcc0.jpg
+[05-May-2025 17:03:13 UTC] Şəkil yüklənmədi: 'https://smarton.az/storage/products/52987/899363-bdfd94f159574975fea3c8cc4efffcc0.jpg' (Sətir: 2)
+[05-May-2025 17:06:16 UTC] Sətir məlumatları: name=Thomson 65UG4S14 Smart Televizor | price=1159 | category=TV | dateInput=02.05.2025 | imageUrl=https://smarton.az/storage/products/53408/65ug4s14-01-1.jpg
+[05-May-2025 17:06:17 UTC] Sətir məlumatları: name=LG OLED83B4RLA.AMCN Smart Televizor | price=11599 | category=TV | dateInput=02.05.2025 | imageUrl=https://smarton.az/storage/products/53061/lg-tv-oled83b4-front-11-view.jpg
+[05-May-2025 17:06:18 UTC] Sətir məlumatları: name=Midea MF01712BS40/W Paltaryuyan maşın | price=599 | category=Paltaryuyan | dateInput=02.05.2025 | imageUrl=https://smarton.az/storage/products/53325/midea-mf01712bs40w-3.jpg
+[05-May-2025 17:06:18 UTC] Sətir məlumatları: name=Samsung RT53DB7B60ETWR Soyuducu | price=2099 | category=Soyuducu | dateInput=02.05.2025 | imageUrl=https://smarton.az/storage/products/53375/soyuducu-samsung-rt53db7b60etwt-1-1-429x419far-efe.jpg
+[05-May-2025 17:06:19 UTC] Sətir məlumatları: name= | price=0 | category= | dateInput= | imageUrl=
+[05-May-2025 17:06:19 UTC] Tarix formatı xətalı: '' (Sətir: 5)
+[05-May-2025 17:06:19 UTC] Sətir məlumatları: name=Gree GWH24ATDXE-K6DNA1A/I Charmo İnverter Kondisioner | price=1899 | category=Kondisioner | dateInput=02.05.2025 | imageUrl=https://smarton.az/storage/products/53385/charmo-1-500x500.jpg
+[05-May-2025 17:07:55 UTC] Sətir məlumatları: name=LG GR-X29FFQAB.AEPRALY Soyuducu | price=5999 | category=Soyuducu | dateInput=05.05.2025 | imageUrl=https://smarton.az/storage/products/53412/tm-mt-bmt-1108-rf-0079-1-fdc51a31-1.jpg
+[05-May-2025 17:07:55 UTC] Şəkil yüklənmədi: 'https://smarton.az/storage/products/53412/tm-mt-bmt-1108-rf-0079-1-fdc51a31-1.jpg' (Sətir: 1)
+[05-May-2025 17:07:55 UTC] Sətir məlumatları: name=Indesit ITS 4200 G Soyuducu | price=859 | category=Soyuducu | dateInput=05.05.2025 | imageUrl=https://smarton.az/storage/products/52987/899363-bdfd94f159574975fea3c8cc4efffcc0.jpg
+[05-May-2025 17:07:56 UTC] Şəkil yüklənmədi: 'https://smarton.az/storage/products/52987/899363-bdfd94f159574975fea3c8cc4efffcc0.jpg' (Sətir: 2)
+[05-May-2025 17:08:25 UTC] Sətir məlumatları: name=LG GR-X29FFQAB.AEPRALY Soyuducu | price=5999 | category=Soyuducu | dateInput=05.05.2025 | imageUrl=https://smarton.az/storage/products/53412/tm-mt-bmt-1108-rf-0079-1-fdc51a31-1.jpg
+[05-May-2025 17:08:25 UTC] Şəkil yüklənmədi: 'https://smarton.az/storage/products/53412/tm-mt-bmt-1108-rf-0079-1-fdc51a31-1.jpg' (Sətir: 1)
+[05-May-2025 17:08:25 UTC] Sətir məlumatları: name=Indesit ITS 4200 G Soyuducu | price=859 | category=Soyuducu | dateInput=05.05.2025 | imageUrl=https://smarton.az/storage/products/52987/899363-bdfd94f159574975fea3c8cc4efffcc0.jpg
+[05-May-2025 17:08:26 UTC] Şəkil yüklənmədi: 'https://smarton.az/storage/products/52987/899363-bdfd94f159574975fea3c8cc4efffcc0.jpg' (Sətir: 2)
+[05-May-2025 17:09:59 UTC] Sətir məlumatları: name=LG GR-X29FFQAB.AEPRALY Soyuducu | price=5999 | category=Soyuducu | dateInput=05.05.2025 | imageUrl=https://smarton.az/storage/products/53412/tm-mt-bmt-1108-rf-0079-1-fdc51a31-1.jpg
+[05-May-2025 17:10:00 UTC] Tanımadığım şəkil tipi: 'https://smarton.az/storage/products/53412/tm-mt-bmt-1108-rf-0079-1-fdc51a31-1.jpg'
+[05-May-2025 17:10:00 UTC] Şəkil yüklənmədi: 'https://smarton.az/storage/products/53412/tm-mt-bmt-1108-rf-0079-1-fdc51a31-1.jpg' (Sətir: 1)
+[05-May-2025 17:10:00 UTC] Sətir məlumatları: name=Indesit ITS 4200 G Soyuducu | price=859 | category=Soyuducu | dateInput=05.05.2025 | imageUrl=https://smarton.az/storage/products/52987/899363-bdfd94f159574975fea3c8cc4efffcc0.jpg
+[05-May-2025 17:10:00 UTC] Tanımadığım şəkil tipi: 'https://smarton.az/storage/products/52987/899363-bdfd94f159574975fea3c8cc4efffcc0.jpg'
+[05-May-2025 17:10:00 UTC] Şəkil yüklənmədi: 'https://smarton.az/storage/products/52987/899363-bdfd94f159574975fea3c8cc4efffcc0.jpg' (Sətir: 2)
+[05-May-2025 17:10:16 UTC] Sətir məlumatları: name=LG GR-X29FFQAB.AEPRALY Soyuducu | price=5999 | category=Soyuducu | dateInput=05.05.2025 | imageUrl=https://smarton.az/storage/products/53412/tm-mt-bmt-1108-rf-0079-1-fdc51a31-1.jpg
+[05-May-2025 17:10:17 UTC] Tanımadığım şəkil tipi: 'https://smarton.az/storage/products/53412/tm-mt-bmt-1108-rf-0079-1-fdc51a31-1.jpg'
+[05-May-2025 17:10:17 UTC] Şəkil yüklənmədi: 'https://smarton.az/storage/products/53412/tm-mt-bmt-1108-rf-0079-1-fdc51a31-1.jpg' (Sətir: 1)
+[05-May-2025 17:10:17 UTC] Sətir məlumatları: name=Indesit ITS 4200 G Soyuducu | price=859 | category=Soyuducu | dateInput=05.05.2025 | imageUrl=https://smarton.az/storage/products/52987/899363-bdfd94f159574975fea3c8cc4efffcc0.jpg
+[05-May-2025 17:10:17 UTC] Tanımadığım şəkil tipi: 'https://smarton.az/storage/products/52987/899363-bdfd94f159574975fea3c8cc4efffcc0.jpg'
+[05-May-2025 17:10:17 UTC] Şəkil yüklənmədi: 'https://smarton.az/storage/products/52987/899363-bdfd94f159574975fea3c8cc4efffcc0.jpg' (Sətir: 2)
+[05-May-2025 17:12:12 UTC] Sətir məlumatları: name=LG GR-X29FFQAB.AEPRALY Soyuducu | price=5999 | category=Soyuducu | dateInput=05.05.2025 | imageUrl=https://smarton.az/storage/products/53412/tm-mt-bmt-1108-rf-0079-1-fdc51a31-1.jpg
+[05-May-2025 17:12:12 UTC] Tanımadığım şəkil tipi: 'https://smarton.az/storage/products/53412/tm-mt-bmt-1108-rf-0079-1-fdc51a31-1.jpg'
+[05-May-2025 17:12:12 UTC] Şəkil yüklənmədi: 'https://smarton.az/storage/products/53412/tm-mt-bmt-1108-rf-0079-1-fdc51a31-1.jpg' (Sətir: 1)
+[05-May-2025 17:12:12 UTC] Sətir məlumatları: name=Indesit ITS 4200 G Soyuducu | price=859 | category=Soyuducu | dateInput=05.05.2025 | imageUrl=https://smarton.az/storage/products/52987/899363-bdfd94f159574975fea3c8cc4efffcc0.jpg
+[05-May-2025 17:12:13 UTC] Tanımadığım şəkil tipi: 'https://smarton.az/storage/products/52987/899363-bdfd94f159574975fea3c8cc4efffcc0.jpg'
+[05-May-2025 17:12:13 UTC] Şəkil yüklənmədi: 'https://smarton.az/storage/products/52987/899363-bdfd94f159574975fea3c8cc4efffcc0.jpg' (Sətir: 2)
+[05-May-2025 17:12:31 UTC] Sətir məlumatları: name=LG GR-X29FFQAB.AEPRALY Soyuducu | price=5999 | category=Soyuducu | dateInput=05.05.2025 | imageUrl=https://smarton.az/storage/products/53412/tm-mt-bmt-1108-rf-0079-1-fdc51a31-1.jpg
+[05-May-2025 17:12:31 UTC] Tanımadığım şəkil tipi: 'https://smarton.az/storage/products/53412/tm-mt-bmt-1108-rf-0079-1-fdc51a31-1.jpg'
+[05-May-2025 17:12:31 UTC] Şəkil yüklənmədi: 'https://smarton.az/storage/products/53412/tm-mt-bmt-1108-rf-0079-1-fdc51a31-1.jpg' (Sətir: 1)
+[05-May-2025 17:12:31 UTC] Sətir məlumatları: name=Indesit ITS 4200 G Soyuducu | price=859 | category=Soyuducu | dateInput=05.05.2025 | imageUrl=https://smarton.az/storage/products/52987/899363-bdfd94f159574975fea3c8cc4efffcc0.jpg
+[05-May-2025 17:12:32 UTC] Tanımadığım şəkil tipi: 'https://smarton.az/storage/products/52987/899363-bdfd94f159574975fea3c8cc4efffcc0.jpg'
+[05-May-2025 17:12:32 UTC] Şəkil yüklənmədi: 'https://smarton.az/storage/products/52987/899363-bdfd94f159574975fea3c8cc4efffcc0.jpg' (Sətir: 2)
+[05-May-2025 17:15:33 UTC] Sətir məlumatları: name=LG GR-X29FFQAB.AEPRALY Soyuducu | price=5999 | category=Soyuducu | dateInput=05.05.2025 | imageUrl=https://smarton.az/storage/products/53412/tm-mt-bmt-1108-rf-0079-1-fdc51a31-1.jpg
+[05-May-2025 17:15:35 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x52 0x49 in D:\laragon\www\Smarton\uploadExcel.php on line 69
+[05-May-2025 17:15:35 UTC] PHP Warning:  imagecreatefromjpeg(): &quot;C:\Windows\Temp\img6251.tmp&quot; is not a valid JPEG file in D:\laragon\www\Smarton\uploadExcel.php on line 69
+[05-May-2025 17:15:35 UTC] PHP Fatal error:  Uncaught TypeError: imagecopyresampled(): Argument #2 ($src_image) must be of type GdImage, bool given in D:\laragon\www\Smarton\uploadExcel.php:88
+Stack trace:
+#0 D:\laragon\www\Smarton\uploadExcel.php(88): imagecopyresampled(Object(GdImage), false, 0, 0, 0, 0, 100, 100, 608, 608)
+#1 D:\laragon\www\Smarton\uploadExcel.php(160): downloadAndResizeImage('https://smarton...', 'D:\\laragon\\www\\...')
+#2 {main}
+  thrown in D:\laragon\www\Smarton\uploadExcel.php on line 88
+[05-May-2025 17:15:52 UTC] Sətir məlumatları: name=LG GR-X29FFQAB.AEPRALY Soyuducu | price=5999 | category=Soyuducu | dateInput=05.05.2025 | imageUrl=https://smarton.az/storage/products/53412/tm-mt-bmt-1108-rf-0079-1-fdc51a31-1.jpg
+[05-May-2025 17:15:53 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x52 0x49 in D:\laragon\www\Smarton\uploadExcel.php on line 69
+[05-May-2025 17:15:53 UTC] PHP Warning:  imagecreatefromjpeg(): &quot;C:\Windows\Temp\imgA9C7.tmp&quot; is not a valid JPEG file in D:\laragon\www\Smarton\uploadExcel.php on line 69
+[05-May-2025 17:15:53 UTC] PHP Fatal error:  Uncaught TypeError: imagecopyresampled(): Argument #2 ($src_image) must be of type GdImage, bool given in D:\laragon\www\Smarton\uploadExcel.php:88
+Stack trace:
+#0 D:\laragon\www\Smarton\uploadExcel.php(88): imagecopyresampled(Object(GdImage), false, 0, 0, 0, 0, 100, 100, 608, 608)
+#1 D:\laragon\www\Smarton\uploadExcel.php(160): downloadAndResizeImage('https://smarton...', 'D:\\laragon\\www\\...')
+#2 {main}
+  thrown in D:\laragon\www\Smarton\uploadExcel.php on line 88
+[05-May-2025 17:16:58 UTC] Sətir məlumatları: name=LG GR-X29FFQAB.AEPRALY Soyuducu | price=5999 | category=Soyuducu | dateInput=05.05.2025 | imageUrl=https://smarton.az/storage/products/53412/tm-mt-bmt-1108-rf-0079-1-fdc51a31-1.jpg
+[05-May-2025 17:16:59 UTC] Şəkil yüklənmədi: 'https://smarton.az/storage/products/53412/tm-mt-bmt-1108-rf-0079-1-fdc51a31-1.jpg' (Sətir: 1)
+[05-May-2025 17:16:59 UTC] Sətir məlumatları: name=Indesit ITS 4200 G Soyuducu | price=859 | category=Soyuducu | dateInput=05.05.2025 | imageUrl=https://smarton.az/storage/products/52987/899363-bdfd94f159574975fea3c8cc4efffcc0.jpg
+[05-May-2025 17:17:00 UTC] Şəkil yüklənmədi: 'https://smarton.az/storage/products/52987/899363-bdfd94f159574975fea3c8cc4efffcc0.jpg' (Sətir: 2)
+[05-May-2025 17:18:37 UTC] Sətir məlumatları: name=LG GR-X29FFQAB.AEPRALY Soyuducu | price=5999 | category=Soyuducu | dateInput=05.05.2025 | imageUrl=https://smarton.az/storage/products/53412/tm-mt-bmt-1108-rf-0079-1-fdc51a31-1.jpg
+[05-May-2025 17:18:37 UTC] Şəkil yüklənmədi: 'https://smarton.az/storage/products/53412/tm-mt-bmt-1108-rf-0079-1-fdc51a31-1.jpg' (Sətir: 1)
+[05-May-2025 17:18:37 UTC] Sətir məlumatları: name=Indesit ITS 4200 G Soyuducu | price=859 | category=Soyuducu | dateInput=05.05.2025 | imageUrl=https://smarton.az/storage/products/52987/899363-bdfd94f159574975fea3c8cc4efffcc0.jpg
+[05-May-2025 17:18:39 UTC] Şəkil yüklənmədi: 'https://smarton.az/storage/products/52987/899363-bdfd94f159574975fea3c8cc4efffcc0.jpg' (Sətir: 2)
+[05-May-2025 17:21:16 UTC] Sətir məlumatları: name=LG GR-X29FFQAB.AEPRALY Soyuducu | price=5999 | category=Soyuducu | dateInput=05.05.2025 | imageUrl=https://smarton.az/storage/products/53412/tm-mt-bmt-1108-rf-0079-1-fdc51a31-1.jpg
+[05-May-2025 17:21:17 UTC] Şəkil yüklənmədi: 'https://smarton.az/storage/products/53412/tm-mt-bmt-1108-rf-0079-1-fdc51a31-1.jpg' (Sətir: 1)
+[05-May-2025 17:21:17 UTC] Sətir məlumatları: name=Indesit ITS 4200 G Soyuducu | price=859 | category=Soyuducu | dateInput=05.05.2025 | imageUrl=https://smarton.az/storage/products/52987/899363-bdfd94f159574975fea3c8cc4efffcc0.jpg
+[05-May-2025 17:21:18 UTC] Şəkil yüklənmədi: 'https://smarton.az/storage/products/52987/899363-bdfd94f159574975fea3c8cc4efffcc0.jpg' (Sətir: 2)
+[05-May-2025 17:22:38 UTC] Sətir məlumatları: name=LG GR-X29FFQAB.AEPRALY Soyuducu | price=5999 | category=Soyuducu | dateInput=05.05.2025 | imageUrl=https://smarton.az/storage/products/53412/tm-mt-bmt-1108-rf-0079-1-fdc51a31-1.jpg
+[05-May-2025 17:22:39 UTC] Şəkil yüklənmədi: 'https://smarton.az/storage/products/53412/tm-mt-bmt-1108-rf-0079-1-fdc51a31-1.jpg' (Sətir: 1)
+[05-May-2025 17:22:39 UTC] Sətir məlumatları: name=Indesit ITS 4200 G Soyuducu | price=859 | category=Soyuducu | dateInput=05.05.2025 | imageUrl=https://smarton.az/storage/products/52987/899363-bdfd94f159574975fea3c8cc4efffcc0.jpg
+[05-May-2025 17:22:40 UTC] Şəkil yüklənmədi: 'https://smarton.az/storage/products/52987/899363-bdfd94f159574975fea3c8cc4efffcc0.jpg' (Sətir: 2)
+[05-May-2025 17:24:33 UTC] Sətir məlumatları: name=Thomson 65UG4S14 Smart Televizor | price=1159 | category=TV | dateInput=02.05.2025 | imageUrl=https://smarton.az/storage/products/53408/65ug4s14-01-1.jpg
+[05-May-2025 17:24:34 UTC] Sətir məlumatları: name=LG OLED83B4RLA.AMCN Smart Televizor | price=11599 | category=TV | dateInput=02.05.2025 | imageUrl=https://smarton.az/storage/products/53061/lg-tv-oled83b4-front-11-view.jpg
+[05-May-2025 17:24:35 UTC] Sətir məlumatları: name=Midea MF01712BS40/W Paltaryuyan maşın | price=599 | category=Paltaryuyan | dateInput=02.05.2025 | imageUrl=https://smarton.az/storage/products/53325/midea-mf01712bs40w-3.jpg
+[05-May-2025 17:24:35 UTC] Sətir məlumatları: name=Samsung RT53DB7B60ETWR Soyuducu | price=2099 | category=Soyuducu | dateInput=02.05.2025 | imageUrl=https://smarton.az/storage/products/53375/soyuducu-samsung-rt53db7b60etwt-1-1-429x419far-efe.jpg
+[05-May-2025 17:24:36 UTC] Sətir məlumatları: name= | price=0 | category= | dateInput= | imageUrl=
+[05-May-2025 17:24:36 UTC] Tarix formatı xətalı: '' (Sətir: 5)
+[05-May-2025 17:24:36 UTC] Sətir məlumatları: name=Gree GWH24ATDXE-K6DNA1A/I Charmo İnverter Kondisioner | price=1899 | category=Kondisioner | dateInput=02.05.2025 | imageUrl=https://smarton.az/storage/products/53385/charmo-1-500x500.jpg
+[05-May-2025 17:38:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Log" not found in D:\laragon\www\Smarton\uploadExcel.php:22
+Stack trace:
+#0 D:\laragon\www\Smarton\uploadExcel.php(173): downloadAndResizeImage('https://smarton...', 'D:\\laragon\\www\\...')
+#1 {main}
+  thrown in D:\laragon\www\Smarton\uploadExcel.php on line 22
+[05-May-2025 17:40:41 UTC] 1. Şəkil yüklənməsi başlanır: https://smarton.az/storage/products/53412/tm-mt-bmt-1108-rf-0079-1-fdc51a31-1.jpg
+[05-May-2025 17:40:42 UTC] 2. Şəkil uğurla yükləndi, HTTP kod: 200
+[05-May-2025 17:40:42 UTC] 3. MIME tipi: image/webp
+[05-May-2025 17:40:42 UTC] 4. Dəstəklənməyən şəkil tipi: image/webp
+[05-May-2025 17:40:42 UTC] 1. Şəkil yüklənməsi başlanır: https://smarton.az/storage/products/52987/899363-bdfd94f159574975fea3c8cc4efffcc0.jpg
+[05-May-2025 17:40:43 UTC] 2. Şəkil uğurla yükləndi, HTTP kod: 200
+[05-May-2025 17:40:43 UTC] 3. MIME tipi: image/webp
+[05-May-2025 17:40:43 UTC] 4. Dəstəklənməyən şəkil tipi: image/webp
+[05-May-2025 17:42:15 UTC] PHP Fatal error:  Uncaught Error: Class "Log" not found in D:\laragon\www\Smarton\uploadExcel.php:18
+Stack trace:
+#0 D:\laragon\www\Smarton\uploadExcel.php(176): downloadAndResizeImage('https://smarton...', 'D:\\laragon\\www\\...')
+#1 {main}
+  thrown in D:\laragon\www\Smarton\uploadExcel.php on line 18
+[05-May-2025 18:19:13 UTC] PHP Fatal error:  Uncaught Error: Class "Log" not found in D:\laragon\www\Smarton\uploadExcel.php:22
+Stack trace:
+#0 D:\laragon\www\Smarton\uploadExcel.php(181): downloadAndResizeImage('https://smarton...', 'D:\\laragon\\www\\...')
+#1 {main}
+  thrown in D:\laragon\www\Smarton\uploadExcel.php on line 22
+[05-May-2025 18:20:29 UTC] PHP Fatal error:  Uncaught ValueError: imagecreatefromwebp(): Argument #1 ($filename) must not contain any null bytes in D:\laragon\www\Smarton\uploadExcel.php:60
+Stack trace:
+#0 D:\laragon\www\Smarton\uploadExcel.php(60): imagecreatefromwebp('RIFF\x94\r\x00\x00WEBPVP8...')
+#1 D:\laragon\www\Smarton\uploadExcel.php(180): downloadAndResizeImage('https://smarton...', 'D:\\laragon\\www\\...')
+#2 {main}
+  thrown in D:\laragon\www\Smarton\uploadExcel.php on line 60
+[05-May-2025 18:38:14 UTC] PHP Fatal error:  Uncaught ValueError: imagecreatefromwebp(): Argument #1 ($filename) must not contain any null bytes in D:\laragon\www\Smarton\uploadExcel.php:60
+Stack trace:
+#0 D:\laragon\www\Smarton\uploadExcel.php(60): imagecreatefromwebp('RIFF\x94\r\x00\x00WEBPVP8...')
+#1 D:\laragon\www\Smarton\uploadExcel.php(180): downloadAndResizeImage('https://smarton...', 'D:\\laragon\\www\\...')
+#2 {main}
+  thrown in D:\laragon\www\Smarton\uploadExcel.php on line 60
+[05-May-2025 18:39:08 UTC] PHP Fatal error:  Uncaught ValueError: imagecreatefromwebp(): Argument #1 ($filename) must not contain any null bytes in D:\laragon\www\Smarton\uploadExcel.php:60
+Stack trace:
+#0 D:\laragon\www\Smarton\uploadExcel.php(60): imagecreatefromwebp('RIFF\x94\r\x00\x00WEBPVP8...')
+#1 D:\laragon\www\Smarton\uploadExcel.php(180): downloadAndResizeImage('https://smarton...', 'D:\\laragon\\www\\...')
+#2 {main}
+  thrown in D:\laragon\www\Smarton\uploadExcel.php on line 60
+[05-May-2025 18:40:21 UTC] PHP Fatal error:  Uncaught ValueError: imagecreatefromwebp(): Argument #1 ($filename) must not contain any null bytes in D:\laragon\www\Smarton\uploadExcel.php:60
+Stack trace:
+#0 D:\laragon\www\Smarton\uploadExcel.php(60): imagecreatefromwebp('RIFF\x94\r\x00\x00WEBPVP8...')
+#1 D:\laragon\www\Smarton\uploadExcel.php(180): downloadAndResizeImage('https://smarton...', 'D:\\laragon\\www\\...')
+#2 {main}
+  thrown in D:\laragon\www\Smarton\uploadExcel.php on line 60
